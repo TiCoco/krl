@@ -10,8 +10,6 @@
   line-height:normal;
   text-transform:none;
 }
-._形状 {
-}
 .box_1 {
 }
 .box_2 {
@@ -19,6 +17,8 @@
 .box_3 {
 }
 ._图片 {
+}
+.button {
 }
 ._一级标题 {
   font-family:"ArialMT", "Arial", sans-serif;
@@ -68,41 +68,15 @@
 ._段落 {
   text-align:left;
 }
-.arrow {
-}
-.checkbox {
-  text-align:left;
-}
-.form_disabled {
+.line {
 }
 ._表单提示 {
   color:#999999;
 }
 ._表单禁用 {
 }
-.icon {
+._流程形状 {
 }
-.label1 {
-  font-size:14px;
-  text-align:left;
-}
-._形状1 {
-  font-family:"Arial-BoldMT", "Arial Bold", "Arial", sans-serif;
-  font-weight:700;
-  font-style:normal;
-  font-size:20px;
-  color:#4EDB7C;
-}
-.line {
-}
-.ellipse {
-}
-.input-placeholder {
-  font-family:"PingFangSC-Regular", "PingFang SC", sans-serif;
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:#C0C4CC;
-  text-align:left;
+._形状 {
 }
 textarea, select, input, button { outline: none; }
