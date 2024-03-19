@@ -16,6 +16,8 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 ._图片 {
 }
 .button {
@@ -78,5 +80,7 @@
 ._流程形状 {
 }
 ._形状 {
+}
+.flow_shape {
 }
 textarea, select, input, button { outline: none; }
